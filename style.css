@@ -28,9 +28,11 @@ hr {
     text-transform: uppercase;
 }
 
-.btn-primary{
-    background-color: #f05f44;
-    border-color: #f05f44;
+.btn-primary {	
+    background-color: #F05F44;	
+    border-color: #F05F44;	
+    --bs-btn-hover-bg: #ee4b08;	
+    --bs-btn-hover-border-color: #ee4b08;
 }
 
 .btn-primary:hover{
